@@ -249,6 +249,7 @@ module Diatone
       return handles
     end
 
+
     def self.fretboard ()
       y = $firstfretwidth;
       yy = 0;
